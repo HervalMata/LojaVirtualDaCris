@@ -20,3 +20,12 @@ D:\projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\obj\Debug\netcoreapp
 D:\projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\obj\Debug\netcoreapp3.1\LojaVirtual.pdb
 D:\projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\obj\Debug\netcoreapp3.1\LojaVirtual.genruntimeconfig.cache
 D:\projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\obj\Debug\netcoreapp3.1\LojaVirtual.csproj.CopyComplete
+D:\Projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\bin\Debug\netcoreapp3.1\LojaVirtual.Views.pdb
+D:\Projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\obj\Debug\netcoreapp3.1\LojaVirtual.RazorAssemblyInfo.cache
+D:\Projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\obj\Debug\netcoreapp3.1\LojaVirtual.RazorAssemblyInfo.cs
+D:\Projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\obj\Debug\netcoreapp3.1\LojaVirtual.TagHelpers.input.cache
+D:\Projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\obj\Debug\netcoreapp3.1\LojaVirtual.TagHelpers.output.cache
+D:\Projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\obj\Debug\netcoreapp3.1\LojaVirtual.RazorCoreGenerate.cache
+D:\Projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Visualizar.cshtml.g.cs
+D:\Projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\obj\Debug\netcoreapp3.1\LojaVirtual.RazorTargetAssemblyInfo.cs
+D:\Projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\obj\Debug\netcoreapp3.1\LojaVirtual.Views.pdb
