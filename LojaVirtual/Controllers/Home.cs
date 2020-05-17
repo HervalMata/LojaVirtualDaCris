@@ -14,6 +14,11 @@ namespace LojaVirtual.Controllers
             return View();
         }
 
+        public IActionResult contatoAcao()
+        {
+            return new ContentResult() {Content = "dados recebidos com sucesso!"};
+        }
+
         public IActionResult login()
         {
             return View();
