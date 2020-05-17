@@ -13,5 +13,20 @@ namespace LojaVirtual.Controllers
         {
             return View();
         }
+
+        public IActionResult login()
+        {
+            return View();
+        }
+
+        public IActionResult cadastroCliente()
+        {
+            return View();
+        }
+
+        public IActionResult carrinhoCompras()
+        {
+            return View();
+        }
     }
 }

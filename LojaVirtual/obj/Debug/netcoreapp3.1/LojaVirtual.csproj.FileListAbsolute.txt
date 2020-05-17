@@ -32,3 +32,7 @@ D:\Projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\obj\Debug\netcoreapp
 D:\Projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 D:\Projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\Projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\obj\Debug\netcoreapp3.1\Razor\Views\Home\contato.cshtml.g.cs
+D:\Projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\obj\Debug\netcoreapp3.1\Razor\Views\Home\cadastroCliente.cshtml.g.cs
+D:\Projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\obj\Debug\netcoreapp3.1\Razor\Views\Home\carrinhoCompras.cshtml.g.cs
+D:\Projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\obj\Debug\netcoreapp3.1\Razor\Views\Home\login.cshtml.g.cs
