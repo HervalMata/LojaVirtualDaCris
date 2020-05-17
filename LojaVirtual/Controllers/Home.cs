@@ -8,5 +8,10 @@ namespace LojaVirtual.Controllers
         {
             return View();
         }
+
+        public IActionResult contato()
+        {
+            return View();
+        }
     }
 }

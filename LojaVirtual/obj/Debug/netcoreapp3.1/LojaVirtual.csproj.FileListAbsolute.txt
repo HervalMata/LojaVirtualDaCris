@@ -29,3 +29,6 @@ D:\Projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\obj\Debug\netcoreapp
 D:\Projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Visualizar.cshtml.g.cs
 D:\Projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\obj\Debug\netcoreapp3.1\LojaVirtual.RazorTargetAssemblyInfo.cs
 D:\Projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\obj\Debug\netcoreapp3.1\LojaVirtual.Views.pdb
+D:\Projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\obj\Debug\netcoreapp3.1\Razor\Views\Home\contato.cshtml.g.cs
