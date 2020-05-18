@@ -1,3 +1,4 @@
+using System;
 using LojaVirtual.Libraries.Email;
 using LojaVirtual.Models;
 using Microsoft.AspNetCore.Mvc;
@@ -17,15 +18,22 @@ namespace LojaVirtual.Controllers
         }
 
         public IActionResult ContatoAcao()
-        { 
-            Contato contato = new Contato();
-            contato.Nome = HttpContext.Request.Form["nome"];
-            contato.Email = HttpContext.Request.Form["email"];
-            contato.Texto = HttpContext.Request.Form["texto"];
+        {
+            try
+            {
+                Contato contato = new Contato();
+                contato.Nome = HttpContext.Request.Form["nome"];
+                contato.Email = HttpContext.Request.Form["email"];
+                contato.Texto = HttpContext.Request.Form["texto"];
             
-            //ContatoEmail.EnviarContatoPorEmail(contato);
+                ContatoEmail.EnviarContatoPorEmail(contato);
 
-            ViewData["MSG_S"] = "Mensagem de contato enviada com sucesso!";
+                ViewData["MSG_S"] = "Mensagem de contato enviada com sucesso!";
+            }
+            catch (Exception e)
+            {
+                ViewData["MSG_E"] = "Ooops! Ocorreu um erro, tente novamente mais tarde!";
+            }
 
             return View("Contato");
             //return new ContentResult() {Content = string.Format("dados recebidos com sucesso!<br/> Nome: {0} <br/> E-mail: {1} <br/> Texto: {2}", contato.Nome, contato.Email, contato.Texto), ContentType = "text/html"};
