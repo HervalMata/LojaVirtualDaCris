@@ -39,9 +39,12 @@
 
                 <article class="card">
                     <div class="card-body p-5">
-                        <p class="alert alert-success">Mensagem de sucesso!</p>
+                        @if (ViewData["MSG_S"] != null)
+                        {
+                            <p class="alert alert-success">@ViewData["MSG_S"]</p>
+                        }
 
-                        <form role="form" method="post" action="home/contatoAcao">
+                        <form role="form" method="post" action="ContatoAcao">
                             <div class="form-group">
                                 <label for="nome">Nome</label>
                                 <div class="input-group">
