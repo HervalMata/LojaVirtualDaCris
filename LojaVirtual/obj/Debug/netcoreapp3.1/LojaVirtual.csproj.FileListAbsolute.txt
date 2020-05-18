@@ -36,3 +36,5 @@ D:\Projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\obj\Debug\netcoreapp
 D:\Projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\obj\Debug\netcoreapp3.1\Razor\Views\Home\cadastroCliente.cshtml.g.cs
 D:\Projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\obj\Debug\netcoreapp3.1\Razor\Views\Home\carrinhoCompras.cshtml.g.cs
 D:\Projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\obj\Debug\netcoreapp3.1\Razor\Views\Home\login.cshtml.g.cs
+D:\Projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\obj\Debug\netcoreapp3.1\LojaVirtual.Libraries.Lang.Mensagem.resources
+D:\Projetos\LojaVirtualDaCris\LojaVirtualDaCris\LojaVirtual\obj\Debug\netcoreapp3.1\LojaVirtual.csproj.GenerateResource.cache

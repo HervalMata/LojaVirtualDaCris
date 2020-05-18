@@ -27,4 +27,19 @@
     </Content>
   </ItemGroup>
 
+  <ItemGroup>
+    <EmbeddedResource Update="Libraries\Lang\Mensagem.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Mensagem.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Libraries\Lang\Mensagem.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Mensagem.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
 </Project>
