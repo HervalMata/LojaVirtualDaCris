@@ -2,6 +2,7 @@
 
 @{
     ViewData["title"] = "Contato";
+    LojaVirtual.Models.Contato contato = (LojaVirtual.Models.Contato) ViewData["CONTATO"];
 }
 
 <main role="main">
@@ -57,7 +58,7 @@
                                         <span class="input-group-text"><i class="fa fa-user"></i></span>
                                     </div>
                                     <input type="text" class="form-control" id="nome" name="nome" placeholder=""
-                                           required="">
+                                           required="" value="@(contato != null ? contato.Nome : "")">
                                 </div> <!-- input-group.// -->
                             </div> <!-- form-group.// -->
 
@@ -67,7 +68,8 @@
                                     <div class="input-group-prepend">
                                         <span class="input-group-text"><i class="fa fa-at"></i></span>
                                     </div>
-                                    <input type="text" class="form-control" id="email" name="email" placeholder="">
+                                    <input type="text" class="form-control" id="email" name="email" placeholder=""
+                                            value="@(contato != null ? contato.Email : "")">
                                 </div> <!-- input-group.// -->
                             </div> <!-- form-group.// -->
 
@@ -76,7 +78,7 @@
                                     <div class="form-group">
                                         <label for="texto"><span class="hidden-xs">Texto</span> </label>
                                         <div class="form-inline">
-                                            <textarea class="form-control" id="texto" name="texto" style="width:100%"></textarea>
+                                            <textarea class="form-control" id="texto" name="texto" style="width:100%">@(contato != null ? contato.Texto : "")</textarea>
 
                                         </div>
                                     </div>
